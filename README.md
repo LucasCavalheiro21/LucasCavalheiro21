@@ -2,9 +2,11 @@
 
 **Estudante de Engenharia Eletrônica | Desenvolvedor Full Stack em formação**
 
-Atualmente, estudo desenvolvimento Full Stack com JavaScript, com interesse especial em backend, construção de APIs e boas práticas de arquitetura de software.
+Me chamo Lucas, tenho 24 anos e sou estudante de Engenharia Eletrônica na UPE (POLI).
 
-Aqui no GitHub compartilho meus estudos, exercícios e projetos práticos, sempre focado em evolução técnica e qualidade de código 🚀
+Atualmente, estudo desenvolvimento Full Stack com JavaScript. Aqui no GitHub, compartilho meus estudos, exercícios e projetos, sempre com foco em evolução técnica e boas práticas 🚀
+
+⭐ Sempre em evolução e buscando novos desafios!
 
 ---
 
@@ -25,21 +27,15 @@ Aqui no GitHub compartilho meus estudos, exercícios e projetos práticos, sempr
 
 ## 🤖 Linguagens e Tecnologias
 
-### 🧩 Frontend
-<p>
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<p align="left">
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-</p>
-
-### ⚙️ Backend
-<p>
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-</p>
-
-### 🛠️ Ferramentas
-<p>
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </p>
 
@@ -65,44 +61,28 @@ Aqui no GitHub compartilho meus estudos, exercícios e projetos práticos, sempr
 
 ---
 
-## 📚 Atualmente estudando
-
-- Desenvolvimento Full Stack
-- Estruturas de dados
-- Programação orientada a objetos
-- Boas práticas e Clean Code
-- Arquitetura de APIs com Node.js e TypeScript
-
----
-
-## 🎓 Formação Acadêmica e Base Técnica
-
-🎓 Atualmente curso **Engenharia Eletrônica** na **Universidade de Pernambuco (UPE - POLI)**, onde desenvolvo uma base sólida em raciocínio lógico, matemática aplicada e resolução estruturada de problemas.
-
-💻 Ao longo da minha formação e estudos paralelos, adquiri fundamentos em:
-
-- 🐍 **Python** – automação, lógica de programação e manipulação de dados  
-- 🌐 **JavaScript** – desenvolvimento web e construção de aplicações  
-- 🎨 **HTML & CSS** – estruturação e estilização de interfaces web  
-
----
-
 ## 🌱 Foco Atual e Áreas de Interesse
 
-Tenho grande interesse em áreas estratégicas da tecnologia que envolvem análise, segurança e manipulação inteligente de dados.
+Sou entusiasta de tecnologia e tenho direcionado meus estudos para áreas estratégicas que envolvem análise, segurança e construção eficiente de sistemas baseados em dados.
 
-### 🔍 Principais interesses
+### 🔍 Principais Interesses
 
-- 📊 **Análise de Dados** – exploração, tratamento e interpretação de informações para geração de insights  
-- 🔐 **Cibersegurança** – estudo de boas práticas, proteção de sistemas e segurança da informação  
-
-### 📚 Atualmente estudando
-
-- 🗄️ **Banco de Dados** – modelagem, consultas e organização eficiente de dados  
-- 🛡️ **Fundamentos de Cibersegurança** – conceitos de segurança, vulnerabilidades e proteção de aplicações  
+- 📊 **Análise de Dados** — exploração, tratamento e interpretação de dados para geração de insights e apoio à tomada de decisão  
+- 🔐 **Cibersegurança** — estudo de proteção de sistemas, segurança da informação e identificação de vulnerabilidades  
 
 ---
 
+### 📚 Atualmente Estudando
+
+- 🗄️ **Banco de Dados** — modelagem, consultas e organização eficiente de informações  
+- 🛡️ **Fundamentos de Cibersegurança** — conceitos de defesa, vulnerabilidades e proteção de aplicações  
+- 🌐 **Desenvolvimento Full Stack** — construção de aplicações completas do frontend ao backend  
+- 🧠 **Estruturas de Dados** — organização e otimização de armazenamento e processamento  
+- 🏗️ **Programação Orientada a Objetos (POO)** — modelagem e organização de sistemas escaláveis  
+- ✨ **Boas Práticas e Clean Code** — escrita de código legível, manutenível e eficiente  
+- ⚙️ **Arquitetura de APIs** com **Node.js** e **TypeScript**  
+
+---
 
 ## 🎮 Curiosidade
 
@@ -113,7 +93,3 @@ Fora da programação, gosto de assistir animes e jogar — o que também alimen
 ## 📫 Conecte-se comigo
 
 - LinkedIn: https://www.linkedin.com/in/lucas-cavalheiro-279a22221/
-
----
-
-⭐ Sempre em evolução e buscando novos desafios!
