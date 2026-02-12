@@ -88,4 +88,4 @@ Além da tecnologia, gosto de animes e jogos, que contribuem para meu pensamento
 
 ## 📫 Contato
 
-- 💼 LinkedIn: https://www.linkedin.com/in/lucas-cavalheiro-279a22221/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/LucasCavalheiro21)
