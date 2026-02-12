@@ -93,7 +93,7 @@ Busco constantemente evoluir minhas habilidades e explorar soluções escalávei
 
 - Arquitetura de software e padrões de projeto  
 - Estruturas de dados e algoritmos  
-- Autenticação e autorização (JWT, controle de acesso)  
+- Autenticação e autorização
 - Clean Code e boas práticas  
 - Escalabilidade e organização de sistemas  
 - Segurança em aplicações web  
