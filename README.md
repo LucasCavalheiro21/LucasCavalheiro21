@@ -59,22 +59,6 @@ Busco constantemente evoluir minhas habilidades e explorar soluções escalávei
 
 ---
 
-## 🧩 Experiência em Desenvolvimento
-
-Durante meus projetos, desenvolvi aplicações com:
-
-✔ APIs REST completas  
-✔ Operações CRUD estruturadas  
-✔ Integração frontend ↔ backend  
-✔ Sistemas com autenticação e controle de permissões  
-✔ Filtros, busca e manipulação de dados  
-✔ Modelagem de banco relacional  
-✔ Organização de projetos escaláveis  
-✔ Consumo e tratamento de dados via JSON  
-✔ Interfaces responsivas e centradas no usuário  
-
----
-
 ## ⭐ GitHub
 
 <p align="left">
@@ -105,20 +89,6 @@ Durante meus projetos, desenvolvi aplicações com:
 
 ---
 
-## 🎯 Áreas de Interesse
-
-Tenho grande interesse em áreas que combinam software, dados e segurança.
-
-### 🔍 Principais Focos
-
-- Desenvolvimento Full Stack  
-- Arquitetura e design de APIs  
-- Engenharia de Software  
-- Análise e manipulação de dados  
-- Segurança de aplicações  
-
----
-
 ## 📚 Atualmente Estudando
 
 - Arquitetura de software e padrões de projeto  
@@ -138,8 +108,4 @@ Além da tecnologia, gosto de animes e jogos, que contribuem para meu pensamento
 
 ## 📫 Contato
 
-- 💼 LinkedIn:  
-  https://www.linkedin.com/in/lucas-cavalheiro-279a22221/
-
-- 📧 Email:  
-  l.cavalheirolc@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/lucas-cavalheiro-279a22221/
