@@ -1,12 +1,77 @@
 # 🧑🏻‍💻 Lucas Cavalheiro
 
-**Estudante de Engenharia Eletrônica | Desenvolvedor Full Stack em formação**
+**Engenharia Eletrônica | Desenvolvedor Full Stack**
 
-Me chamo Lucas, tenho 24 anos e sou estudante de Engenharia Eletrônica na UPE (POLI).
+Sou Lucas, tenho 24 anos e sou estudante de Engenharia Eletrônica na UPE (POLI).  
 
-Atualmente, estudo desenvolvimento Full Stack com JavaScript. Aqui no GitHub, compartilho meus estudos, exercícios e projetos, sempre com foco em evolução técnica e boas práticas.
+Tenho direcionado minha formação para desenvolvimento de software, com foco em aplicações web Full Stack, arquitetura de APIs e boas práticas de engenharia.
 
-Sempre em evolução e buscando novos desafios! 🚀
+Tenho experiência prática construindo aplicações completas envolvendo frontend, backend, banco de dados relacional e integração entre serviços. Utilizo o GitHub como portfólio para documentar minha evolução técnica e compartilhar projetos reais.
+
+Busco constantemente evoluir minhas habilidades e explorar soluções escaláveis, organizadas e bem estruturadas.
+
+---
+
+## 🚀 Stack e Tecnologias
+
+<p align="left">
+    
+<!-- Linguagens principais -->
+
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+
+<!-- Frontend -->
+
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+
+<!-- Backend -->
+
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+
+<!-- Banco de Dados e ORM -->
+
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" />
+
+<!-- Versionamento e ecossistema -->
+
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+
+<!-- Ferramentas de desenvolvimento -->
+
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/callback-io/allogo@main/public/logos/insomnia/icon.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
+
+<!-- Linguagens complementares -->
+
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+
+</p>
+
+---
+
+## 🧩 Experiência em Desenvolvimento
+
+Durante meus projetos, desenvolvi aplicações com:
+
+✔ APIs REST completas  
+✔ Operações CRUD estruturadas  
+✔ Integração frontend ↔ backend  
+✔ Sistemas com autenticação e controle de permissões  
+✔ Filtros, busca e manipulação de dados  
+✔ Modelagem de banco relacional  
+✔ Organização de projetos escaláveis  
+✔ Consumo e tratamento de dados via JSON  
+✔ Interfaces responsivas e centradas no usuário  
 
 ---
 
@@ -14,40 +79,19 @@ Sempre em evolução e buscando novos desafios! 🚀
 
 <p align="left">
     <a href="https://github.com/LucasCavalheiro21?tab=repositories">
-        <img alt="Repositórios" title="Meus repositórios"
+        <img alt="Repositórios"
         src="https://custom-icon-badges.demolab.com/github/stars/LucasCavalheiro21?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/>
     </a>
     <a href="https://github.com/LucasCavalheiro21?tab=followers">
-        <img alt="Seguidores" title="Me siga no GitHub"
+        <img alt="Seguidores"
         src="https://custom-icon-badges.demolab.com/github/followers/LucasCavalheiro21?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
     </a>
 </p>
 
 ---
 
-## 🤖 Linguagens e Tecnologias
+## 📊 Estatísticas
 
-<p align="left">
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</p>
-
----
-
-## 🧩 Projetos em destaque
-
-🔹 Em desenvolvimento...
-
----
-
-## 📊 Estatísticas do GitHub
 <table>
 <tr>
 <td width="50%">
@@ -61,35 +105,41 @@ Sempre em evolução e buscando novos desafios! 🚀
 
 ---
 
-## 🌱 Foco Atual e Áreas de Interesse
+## 🎯 Áreas de Interesse
 
-Sou entusiasta de tecnologia e tenho direcionado meus estudos para áreas estratégicas que envolvem análise, segurança e construção eficiente de sistemas baseados em dados.
+Tenho grande interesse em áreas que combinam software, dados e segurança.
 
-### 🔍 Principais Interesses
+### 🔍 Principais Focos
 
-- 📊 **Análise de Dados** — exploração, tratamento e interpretação de dados para geração de insights e apoio à tomada de decisão  
-- 🔐 **Cibersegurança** — estudo de proteção de sistemas, segurança da informação e identificação de vulnerabilidades  
-
----
-
-### 📚 Atualmente Estudando
-
-- 🗄️ **Banco de Dados** — modelagem, consultas e organização eficiente de informações  
-- 🛡️ **Fundamentos de Cibersegurança** — conceitos de defesa, vulnerabilidades e proteção de aplicações  
-- 🌐 **Desenvolvimento Full Stack** — construção de aplicações completas do frontend ao backend  
-- 🧠 **Estruturas de Dados** — organização e otimização de armazenamento e processamento  
-- 🏗️ **Programação Orientada a Objetos (POO)** — modelagem e organização de sistemas escaláveis  
-- ✨ **Boas Práticas e Clean Code** — escrita de código legível, manutenível e eficiente  
-- ⚙️ **Arquitetura de APIs** com **Node.js** e **TypeScript**  
+- Desenvolvimento Full Stack  
+- Arquitetura e design de APIs  
+- Engenharia de Software  
+- Análise e manipulação de dados  
+- Segurança de aplicações  
 
 ---
 
-## 🎮 Curiosidade
+## 📚 Atualmente Estudando
 
-Fora da programação, gosto de assistir animes e jogar — o que também alimenta minha criatividade e pensamento estratégico ⚔️
+- Arquitetura de software e padrões de projeto  
+- Estruturas de dados e algoritmos  
+- Autenticação e autorização (JWT, controle de acesso)  
+- Clean Code e boas práticas  
+- Escalabilidade e organização de sistemas  
+- Segurança em aplicações web  
 
 ---
 
-## 📫 Conecte-se comigo
+## 🎮 Curiosidades
 
-- LinkedIn: https://www.linkedin.com/in/lucas-cavalheiro-279a22221/
+Além da tecnologia, gosto de animes e jogos, que contribuem para meu pensamento estratégico e criatividade.
+
+---
+
+## 📫 Contato
+
+- 💼 LinkedIn:  
+  https://www.linkedin.com/in/lucas-cavalheiro-279a22221/
+
+- 📧 Email:  
+  l.cavalheirolc@gmail.com
