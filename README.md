@@ -4,9 +4,9 @@
 
 Me chamo Lucas, tenho 24 anos e sou estudante de Engenharia Eletrônica na UPE (POLI).
 
-Atualmente, estudo desenvolvimento Full Stack com JavaScript. Aqui no GitHub, compartilho meus estudos, exercícios e projetos, sempre com foco em evolução técnica e boas práticas 🚀
+Atualmente, estudo desenvolvimento Full Stack com JavaScript. Aqui no GitHub, compartilho meus estudos, exercícios e projetos, sempre com foco em evolução técnica e boas práticas.
 
-⭐ Sempre em evolução e buscando novos desafios!
+Sempre em evolução e buscando novos desafios! 🚀
 
 ---
 
