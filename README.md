@@ -1,14 +1,16 @@
 # 🧑🏻‍💻 Lucas Cavalheiro
 
-**Engenharia Eletrônica | Desenvolvedor Full Stack**
+> Desenvolvedor Full Stack | Engenharia Eletrônica
 
-Sou Lucas, tenho 24 anos e sou estudante de Engenharia Eletrônica na UPE (POLI).  
+Sou estudante de Engenharia Eletrônica na UPE, atualmente direcionando minha carreira para o desenvolvimento Full Stack.
 
-Tenho direcionado minha formação para desenvolvimento de software, com foco em aplicações web Full Stack, arquitetura de APIs e boas práticas de engenharia.
+Tenho experiência na construção de aplicações web, buscando sempre aplicar boas práticas de organização de código, arquitetura de software e desenvolvimento escalável.
 
-Tenho experiência prática construindo aplicações completas envolvendo frontend, backend, banco de dados relacional e integração entre serviços. Utilizo o GitHub como portfólio para documentar minha evolução técnica e compartilhar projetos reais.
+Atualmente estou aprofundando meus conhecimentos através de um Bootcamp Full Stack na Escola Atlântico Avanti, focado na construção de aplicações modernas, modelagem de dados, APIs robustas e trabalho em equipe, simulando o ambiente real do mercado.
 
-Busco constantemente evoluir minhas habilidades e explorar soluções escaláveis, organizadas e bem estruturadas.
+Sempre em evolução, explorando novas tecnologias e aprimorando minhas habilidades em arquitetura de sistemas e desenvolvimento back-end e front-end.
+
+Utilizo o GitHub como portfólio para documentar minha evolução técnica e compartilhar projetos práticos.
 
 ---
 
