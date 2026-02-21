@@ -56,16 +56,10 @@ Busco constantemente evoluir minhas habilidades e explorar soluções escalávei
 
 ## 📊 Estatísticas
 
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LucasCavalheiro21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
-</td>
-<td width="50%">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LucasCavalheiro21&theme=tokyonight&layout=compact&langs_count=8"/>
-</td>
-</tr>
-</table>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LucasCavalheiro21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LucasCavalheiro21&theme=tokyonight&layout=compact&langs_count=8&hide_border=true"/>
+</div>
 
 ---
 
