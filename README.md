@@ -43,12 +43,12 @@ Busco constantemente evoluir minhas habilidades e explorar soluções escalávei
 
 <p align="left">
     <a href="https://github.com/LucasCavalheiro21?tab=repositories">
-        <img alt="Repositórios"
-        src="https://custom-icon-badges.demolab.com/github/stars/LucasCavalheiro21?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/>
+        <img alt="Estrelas"
+             src="https://img.shields.io/github/stars/LucasCavalheiro21?style=for-the-badge&color=55960c&labelColor=488207&label=Estrelas"/>
     </a>
     <a href="https://github.com/LucasCavalheiro21?tab=followers">
         <img alt="Seguidores"
-        src="https://custom-icon-badges.demolab.com/github/followers/LucasCavalheiro21?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+             src="https://img.shields.io/github/followers/LucasCavalheiro21?style=for-the-badge&color=236ad3&labelColor=1155ba&logo=github&label=Seguidores&logoColor=white"/>
     </a>
 </p>
 
